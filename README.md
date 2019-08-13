@@ -46,7 +46,10 @@ Coverage:
 - licurl-dev (in libcurl4-openssl-dev)
 - libbz2-dev
 - libminiupnpc-dev (linux)
-Most of them can be installed with the package manager.
+
+Most of them can be installed with the package manager:
+
+- Ubuntu: `apt install gcc g++ cmake clang git libboost-dev libboost-filesystem-dev libboost-locale-dev libboost-iostreams-dev libboost-test-dev libboost-program-options-dev libsndfile1-dev libsdl1.2-dev libsdl-mixer1.2-dev libsdl2-dev libsdl2-mixer-dev libcurl4-openssl-dev libbz2-dev libminiupnpc-dev fftw3-dev`
 
 ### Prerequisite MacOSX:
 - cmake
